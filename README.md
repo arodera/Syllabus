@@ -1,45 +1,46 @@
 #Programación Avanzada con Processing
-Prof. Tomás de Camino Beck, Ph.D.
+[Prof. Tomás de Camino Beck, Ph.D.](https://www.linkedin.com/in/tomas-de-camino-beck-ph-d-a64887102)
 
 
 ##Introducción
 
-La computación en la última década se ha permeado y transformado la sociedad, tanto así, que las personas nuevamente ven la compuatciòn con lo cual algo construir y no solamente consumir.  Los lenguajes de programación también han evolucionado, y se han transformado en más que simplemente un lenguaje para construir software, sino como una herramienta de exploración y creación.  Processing,  nace en 1999, y desde entonces ha evolucionado como un lenguaje que permite programar desde una perspectiva de artes visuales y expresión de ideas, así como el prototipado de software y la interaccion con dispositivos físicos.
+La computación en la última década se ha permeado y transformado la sociedad, tanto es así, que las personas nuevamente ven la compuatción como algo con lo que construir y no solamente consumir.  Los lenguajes de programación también han evolucionado, y se han transformado en más que simplemente un lenguaje para construir software, sino como una herramienta de exploración y creación.  Processing,  nace en 1999, y desde entonces ha evolucionado como un lenguaje que permite programar desde una perspectiva de artes visuales y expresión de ideas, así como el prototipado de software y la interacción con dispositivos físicos.
 
-##Objetivo general
-Conocer y manejar los principios avanzados de programación en processing como herramienta para la generación de programas interactivos, el prototipado de ideas y la generación de diseños.
+##Objetivos generales
+Generar programas interactivos, el prototipado de ideas y la generación de diseños.
+Conocer los principios avanzados de programación en processing.
+Aplicar eficazmente los principios de uso avanzado de processing.
 
 ##Objetivo específicos
 * Comprender los conceptos básicos de la lógica, el procedimiento y los objetos en processing.
 * Usar estructuras de códigos para expresar ideas visuales e interactivas.
 * Conocer la sintaxis y la estructura del entorno de Processing
 * Prototipar en código y pseudo-código, ideas propias.
-* Manipular y generar programas de manera creativa y exploratoria. 
+* Manipular programas de manera creativa y exploratoria. 
 * Entender las capacidades expresivas de la tecnología a partir de la lógica de programación.
 
 
 ##Competencias
 
+La finalización del taller existosamente implicará que usted sea capaz de...
 * Poder transcribir ideas a código (programados en Processing)
 * Prototipar y probar código
 * Combinar instrucciones en un lenguaje para resolver problemas y crear soluciones
+* Escribir código de forma efectiva y de alto nivel en Processing
+* Combinar instrucciones para resolver problemas
+* “Hackear”, combinar y compartir código
+* Construir procesos computacionales tangibles mediante micro-controladores.
+* Vizualilzar de forma dinámica datos
+* Generar diseños generativos
+* Prototipar
 
-Estas competencias se demostrarán:
+Las competencias anteriores se demostrarán:
 
 * Programando proyectos en processing
 * Combinando proyectos de programación con micro-controladores (Gemma, Flora, Lilypad, Arduino, etc)
 * Preparando un proyecto de programación de una idea creativa  al final del curso
 * Visualizando y manipulando datos en processing
 
-El rendimiento será exitoso cuando:
-
-* Escribir código de forma efectiva y de alto nivel en Processing
-* combinar instrucciones para resolver problemas
-* “Hackear”, combinar y compartir código
-* Puedan construir procesos computacionales tangibles mediante micro-controladores.
-* Vizualilzación de forma dinámica datos
-* Los participantes puedan construir diseños generativos
-* Prototipar
 
 ##Contenido
  	 	
@@ -71,25 +72,26 @@ El rendimiento será exitoso cuando:
 
 ##Metodología y evaluación
 
-El curso es teórico práctico. Los estudiantes tendrán que estudiar y revisar videos, artículos y capítulos de libros antes de la clase. AL iniciar la clase se hará una introducción y discusión del material estudiado, la hora siguiente  los estudiantes deberán realizar un proyecto. Los 20 min finales se utilizarán para exponer el resultado de cada proyecto y la explicación del codigo. Se trabajarán en grupos de 2 personas.
+El curso es teórico práctico. Los estudiantes tendrán que estudiar y revisar videos, artículos y capítulos de libros antes de la clase. AL iniciar la clase se hará una introducción y discusión del material estudiado, la hora siguiente  los estudiantes deberán realizar un proyecto. Los 20 min finales se utilizarán para exponer el resultado de cada proyecto y la explicación del código. Se trabajarán en grupos de 2 personas.
+
 Tareas de programación
 
-Las tareas se asignarán de forma semanal.  Las tareas programadas se hacen de forma individual.  En las tareas se puede “Hackear” a otros (compañeros o cualquier otro código del internet), pero debe dar los créditos respectivos e indicar donde cambió el código, y cual es el paso innovador (que lo hacer diferente a código original). Las tareas se entregan a través de github.org con las indicaciones que se darán en clase.
+Las tareas se asignarán de forma semanal y tienen carácter individual.  En las tareas se puede “Hackear” a otros (compañeros o cualquier otro código del internet), pero se debe dar los créditos respectivos e indicar donde cambió el código, y cual es el paso innovador (que lo hacer diferente a código original). Las tareas se entregan a través de github.org siguiendo las indicaciones que se darán en clase.
 
 ##Proyecto
 
-El proyecto se desarrollará tanto en las últimas 2 clases. Las últimas dos sesiones se dedicarán a la presentación y evaluación de proyectos. El proyecto es individual, pero se fomentará la colaboración entre estudiantes. 
+El proyecto se desarrollará durante las últimas 2 clases. Las últimas dos sesiones se dedicarán a la presentación y evaluación de proyectos. El proyecto es individual, pero se fomentará la colaboración entre estudiantes. 
 
 Su proyecto final será evaluado por un número de factores, recuerde que todos los criterios son importantes, y que no se espera que tenga un producto perfecto y definitivo al final de la clase.  
 
-Se espera que el proyecto tenga :
-* Un prototipo que demuestre el concepto (o demostración de sub-problemas… divide y conquista)
-* Bajo la lógica de Agile, se desea un proyecto que funcione, más que algo bien documentado.
-* Presentar en pseudo-código el funcionamiento general del código
-* Que el proyecto tenga concepto y sea creativo (ideas originales, novedosas, etc)
-* Que combine y utiliza código de forma ingeniosa.
-* Que utilize todas las buenas prácticas de programación que se explicarán durante el desarrollo del curso.
-* No se espera un código que sea necesariamente eficiente, sino que funcionen
+El proyecto es deseable que...
+* Incluya un prototipo que demuestre el concepto (o demostración de sub-problemas… divide y conquista).
+* Se encuentre bajo la lógica de Agile así, se desea un proyecto que funcione, más que algo bien documentado.
+* Presente en pseudo-código el funcionamiento general del código.
+* Tenga carácter conceptual y ser creativo (ideas originales, novedosas, etc.).
+* Combine y utilice código de forma ingeniosa.
+* Integre eficazmente la totaliddad de buenas prácticas de programación que se explicarán durante el desarrollo del curso.
+* Dé lugar a un código que funcione, y que no necesariamente sea eficiente.
 
 ##Porcentajes
 
